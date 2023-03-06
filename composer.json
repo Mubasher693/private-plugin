@@ -1,0 +1,19 @@
+{
+  "name": "mubasher693/private-plugin",
+  "description": "Demonstration to download, How we can install private plugin in bedrock.",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/mubasher693/private-plugin",
+  "authors": [
+    {
+      "name": "Secret Plugin",
+      "homepage": "https://wpcasts.tv"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">5.6"
+  }
+}
