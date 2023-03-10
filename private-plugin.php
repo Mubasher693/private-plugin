@@ -5,5 +5,5 @@
  */
 
 if (!is_admin()) {
-    echo '<h1>Hi from my private plugin<h1/>';
+    echo '<p>Hi from my private plugin<p/>';
 }
